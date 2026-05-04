@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- IDEs / Editoren ---
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+
+# --- Betriebssystem ---
+.DS_Store
+Thumbs.db
+
+# --- Projekt-Spezifisch ---
+*.log
+# Falls du Log-Dateien deiner seriellen Schnittstelle speicherst
