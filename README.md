@@ -6,7 +6,7 @@ zur präzisen Steuerung von Spider Farmer LED-Lampen über das Modbus RTU Protok
 ---
 ### Getestet mit:
 SE-1500
-⚠️ Andere versionnen nicht bekannt ⚠️
+⚠️ Andere versionnen nicht bekannt oder getestet ⚠️
 
 ---
 
@@ -24,6 +24,8 @@ erlöschen.
 ---
 
 ## 🚀 Features
+
+![ModbusControllerGUI.png](ModbusControllerGUI.png)
 
 - **Echtzeit-Steuerung:** Sofortige Übermittlung von Dimm-Befehlen beim Bewegen des Sliders.
 - **Visuelles Feedback:** Interaktives Tachometer (Gauge) zur Anzeige der aktuellen Leistung.
