@@ -8,7 +8,7 @@ und zur Echtzeit-Analyse des Zeltklimas
 ### Getestet mit:
 
 - Lampe: SE-1500
-- Sensor: Spider Farmer GGS Sensor Pro
+- Sensor: Spider Farmer GGS Sensor Pro 5
 
 ⚠️ Andere Versionen nicht bekannt oder getestet ⚠️
 
